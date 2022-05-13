@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @iwaluwa Oladunni Folashayo
-- 👀 I’m aspiring fullstack developer
+- 👀 I’m an aspiring fullstack developer
 - 🌱 I’m currently learning coding with Coder's Den
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
